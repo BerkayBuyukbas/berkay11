@@ -1,7 +1,7 @@
 <?php
-$databaseHost = 'localhost';
-$databaseName = 'id20526921_myadmin';
-$databaseUsername = 'id20526921_berkaybuyukbas';
+$databaseHost = 'db4free.net:3306';
+$databaseName = 'ogrenciler';
+$databaseUsername = 'berkay';
 $databasePassword = 'eK6afFqi';
 
 $baglan = mysqli_connect($databaseHost, $databaseUsername, $databasePassword, $databaseName); 
