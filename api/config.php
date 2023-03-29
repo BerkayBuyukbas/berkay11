@@ -1,5 +1,5 @@
 <?php
-$databaseHost = 'databases.000webhost.com';
+$databaseHost = 'localhost';
 $databaseName = 'id20526921_myadmin';
 $databaseUsername = 'id20526921_berkaybuyukbas';
 $databasePassword = 'eK6afFqi';
