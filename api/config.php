@@ -1,8 +1,8 @@
 <?php
-$databaseHost = 'sql448.main-hosting.eu';
-$databaseName = 'u724691799_dbname';
-$databaseUsername = 'u724691799_tuncayx';
-$databasePassword = 'Tuncay23*';
+$databaseHost = 'databases.000webhost.com';
+$databaseName = 'id20526921_myadmin';
+$databaseUsername = 'id20526921_berkaybuyukbas';
+$databasePassword = 'eK6afFqi';
 
 $baglan = mysqli_connect($databaseHost, $databaseUsername, $databasePassword, $databaseName); 
 /*if($baglanti)
