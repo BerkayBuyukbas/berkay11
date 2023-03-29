@@ -1,6 +1,6 @@
 <?php
 $databaseHost = 'db4free.net:3306';
-$databaseName = 'ogrenciler';
+$databaseName = 'myadmin';
 $databaseUsername = 'berkay.';
 $databasePassword = 'eK6afFqi';
 
